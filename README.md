@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I am Ahmet Furkan Akıncı! 👋
 
-<!--
-**Ahmetf1/Ahmetf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏢 I'm an undergraduate Electrical and Electronics Engineering student in Boğaziçi University.
+- 💻 I'm working on **UAV**s and **Artificial Intelligence**.
+- 🌱 I'm teaching software and digital tools to high school students.
+- ⚡ Learning is my passion.
+- Co - Founded [BogaziciAI](https://github.com/bogaziciai)
+- Software Team Leader of [Airbenders](https://github.com/airbenders)
 
-Here are some ideas to get you started:
+## I am learning and using
+- **C++**
+- **Python**
+- **Linux**
+- **Git**
+- **Some AI concepts and tools**
+- **Autonomus Vehicle Software tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+
+You can find and get in touch with me on below accounts!
+
+[![Linkedin Badge](https://img.shields.io/badge/AhmetFurkan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://tr.linkedin.com/in/ahmet-furkan-akinci)
+<br> 
+<br> 
+*ahmetfakinci@gmail.com*
+
