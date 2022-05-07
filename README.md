@@ -11,6 +11,8 @@
 - **C++**
 - **Python**
 - **Linux**
+- **ROS**
+- **Qt/Qml - PyQt**
 - **Git**
 - **Some AI concepts and tools**
 - **Autonomus Vehicle Software tools**
