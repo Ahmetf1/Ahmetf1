@@ -1,11 +1,12 @@
 ### Hi there, I am Ahmet Furkan Akıncı! 👋
 
 - 🏢 I'm an undergraduate Electrical and Electronics Engineering student in Boğaziçi University.
-- 💻 I'm working on **UAV**s and **Artificial Intelligence**.
+- 💻 I'm working on **UAV**s, **Autonomus Cars** and **Artificial Intelligence**.
 - 🌱 I'm teaching software and digital tools to high school students.
 - ⚡ Learning is my passion.
 - Co - Founded [BogaziciAI](https://github.com/bogaziciai)
 - Software Team Leader of [Airbenders](https://github.com/airbenders)
+- Student researcher in Boun DeepMia Lab
 
 ## I am learning and using
 - **C++**
